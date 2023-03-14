@@ -1,0 +1,12 @@
+[
+  "test_pet_friends.py::test_add_new_pet_without_photo_valid",
+  "test_pet_friends.py::test_add_new_peth_with_valid_key",
+  "test_pet_friends.py::test_delete_pet_with_valid_key",
+  "test_pet_friends.py::test_get_all_pets_with_valid_key",
+  "test_pet_friends.py::test_get_api_key_for_invalid_user",
+  "test_pet_friends.py::test_get_api_key_for_valid_user",
+  "test_pet_friends.py::test_set_other_pet_photo_invalid",
+  "test_pet_friends.py::test_set_other_pet_photo_invalid_auth_key",
+  "test_pet_friends.py::test_set_pet_photo_valid",
+  "test_pet_friends.py::test_test_update_info_about_pet_valid"
+]
